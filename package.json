@@ -1,0 +1,13 @@
+{
+  "name": "handasiya-aluminum-maadi",
+  "version": "1.0.0",
+  "description": "الموقع الرسمي للشركة الهندسية للألوميتال - المعادي، القاهرة",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Static site ready for GitHub Pages'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
